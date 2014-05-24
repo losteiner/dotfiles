@@ -1,5 +1,7 @@
 
-colorscheme torte
+syntax enable
+set background=dark
+colorscheme solarized
 set textwidth=120
 set t_Co=256
 syntax on
